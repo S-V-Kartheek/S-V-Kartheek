@@ -23,7 +23,7 @@ A passionate **AI/Backend Engineer** and **Full-Stack Developer** from India, bu
 - 🤖 **AI Engineer Intern @ Infosys Springboard** — Production RAG pipeline with 85% answer relevance
 - 🔬 **Undergraduate Researcher @ IIIT Gwalior** — Multimodal graph recommendation systems
 - ☕ **Oracle Certified Professional** — Java SE 17 Developer
-- 🎓 **B.Tech CSE @ SRM University AP** — CGPA: 9.06 / 10.0
+- 🎓 **100 Days of Code: The Complete Python Pro Bootcamp– Udemy 
 - ⚡ **Fun Fact**: I debug production systems faster with coffee than without it!
 
 ---
