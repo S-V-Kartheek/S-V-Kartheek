@@ -49,7 +49,7 @@ A passionate **AI/Backend Engineer** and **Full-Stack Developer** from India, bu
 
 ---
 
-### 3. 🌾 SmartAgriPlatform (AgriSage) — AI Agriculture for Andhra Pradesh Farmers
+### 3. 🌾 SmartAgriPlatform (AgriSage) — AI Agriculture for Farmers
 [![GitHub](https://img.shields.io/badge/Code-%230d1117.svg?logo=github&logoColor=white&style=flat-square)](https://github.com/S-V-Kartheek/SmartAgriPlatform)
 - **What it does**: AI-assisted agriculture platform helping farmers with crop planning, plant health, irrigation, and market awareness
 - **ML Layer**: 4 integrated ML models — crop recommendation, disease detection, price prediction & water management
