@@ -1,4 +1,4 @@
-# 👋 Venkata Kartheek Sanka [![Portfolio](https://img.shields.io/badge/Portfolio-%E2%9D%A4-%2300c8ff.svg?&logo=vercel&logoColor=white&labelColor=0d1117&style=flat-square)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%E2%9D%A4-%230077b5.svg?&logo=linkedin&logoColor=white&labelColor=0d1117&style=flat-square)](https://www.linkedin.com/in/venkata-kartheek-sanka)
+# 👋 Venkata Kartheek Sanka [![Portfolio](https://img.shields.io/badge/Portfolio-%E2%9D%A4-%2300c8ff.svg?&logo=vercel&logoColor=white&labelColor=0d1117&style=flat-square)](https://portfolio-eight-lovat-85.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%E2%9D%A4-%230077b5.svg?&logo=linkedin&logoColor=white&labelColor=0d1117&style=flat-square)](https://www.linkedin.com/in/kartheek-sanka)
 
 <!-- Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=S-V-Kartheek&color=00c8ff&style=flat-square)
