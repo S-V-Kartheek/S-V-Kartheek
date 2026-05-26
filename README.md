@@ -180,7 +180,7 @@ A passionate **AI/Backend Engineer** and **Full-Stack Developer** from India, bu
 **Research Intern @ SRM University AP** (Jun 2025 – Aug 2025)
 - Developed a dual-LLM framework with Node.js REST APIs for legal document analysis, reducing manual review time by **40%** across Central and State laws
 
-**Undergraduate Researcher @ IIIT Gwalior** (Present)
+**Undergraduate Researcher @ IIIT** (Present)
 - Building a multimodal graph-based recommendation system using hybrid filtering (GCN, VGAE, cross-attention), outperforming state-of-the-art baselines on real-world datasets
 
 ---
